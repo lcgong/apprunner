@@ -1,0 +1,4 @@
+
+
+class RunnerException(Exception):
+    ...
